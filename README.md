@@ -24,4 +24,14 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="https://user-images.githubusercontent.com/55010518/124766178-4bfc3980-df54-11eb-9b20-00e4f38a4578.png" width = "360" height = "640">
 <!-- ![Screenshot_1625663897](https://user-images.githubusercontent.com/55010518/124766178-4bfc3980-df54-11eb-9b20-00e4f38a4578.png) -->
+<h6> LOGIN SCREEN </h6>
 
+<img src="https://user-images.githubusercontent.com/55010518/124766646-bc0abf80-df54-11eb-90d4-256e3ecf3e58.png" width = "360" height = "640">
+
+<h6> REGISTER SCREEN </h6>
+
+<img src="https://user-images.githubusercontent.com/55010518/124766761-d349ad00-df54-11eb-88ab-14bd0e3662c7.png" width = "360" height = "640">
+
+<h6> CHATTING SCREEN </h6>
+
+<img src="https://user-images.githubusercontent.com/55010518/124766808-dfce0580-df54-11eb-87b3-0452c45d5d97.png" width = "360" height = "640">
